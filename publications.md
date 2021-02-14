@@ -7,7 +7,7 @@
 3. Brenna, H., Kutterolf, S., & Krüger, K. (2019). Global ozone depletion and increase of UV radiation caused by pre-industrial tropical volcanic eruptions. Scientific Reports, 9(1), 1–14. https://doi.org/10.1038/s41598-019-45630-0
 
 ## Conference presentations
-1. Brenna, H., Kutterolf, S., Mills, M., & Krüger, K. (2019). Decadal ozone and climate changes caused by the super-size , sulfur and halogen rich , Los Chocoyos eruption 84 kyrs ago. In EGU General Assembly (Vol. 21, p. 18202). https://meetingorganizer.copernicus.org/EGU2019/EGU2019-18202.pdf
+1. Brenna, H., Kutterolf, S., Mills, M., & Krüger, K. (2019). Decadal ozone and climate changes caused by the super-size, sulfur and halogen rich, Los Chocoyos eruption 84 kyrs ago. In EGU General Assembly (Vol. 21, p. 18202). https://meetingorganizer.copernicus.org/EGU2019/EGU2019-18202.pdf
 
 ## Conference posters
 1. Brenna, H., Kutterolf, S., Mills, M. J., & Krüger, K. (2018). Atmospheric, Climatic and Environmental Effects of the Super-Size Los Chocoyos Eruption 84 Kyrs Ago. In SPARC General Assembly (p. 1482).
