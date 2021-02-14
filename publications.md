@@ -10,9 +10,12 @@
 1. Brenna, H., Kutterolf, S., Mills, M., & Krüger, K. (2019). Decadal ozone and climate changes caused by the super-size , sulfur and halogen rich , Los Chocoyos eruption 84 kyrs ago. In EGU General Assembly (Vol. 21, p. 18202). https://meetingorganizer.copernicus.org/EGU2019/EGU2019-18202.pdf
 
 ## Conference posters
-1. Brenna, H., Kutterolf, S., & Krüger, K. (2018). Global ozone depletion and increase of UV radiation caused by pre-industrial tropical volcanic eruptions. In EGU General Assembly (p. 6017). Awarded the Outstanding Student Poster and PICO award. https://cdn.egu.eu/media/awards/ospp-award/2018/hans_brenna.pdf
-2. Brenna, H., Krüger, Kirstin, & Kutterolf, S. (2017). Halogen and sulfur rich explosive eruptions in the tropics: A potential threat to the future ozone layer? Halogen and sulfur rich explosive eruptions in the tropics. In IAVCEI 2017 Scientific Assembly (p. 129). http://iavcei2017.org/IAVCEI 2017 Abstracts.pdf
-3. Brenna, H., Krüger, K., & Kutterolf, S. (2016). Modelling the impact of chlorine and bromine emissions from large Plinian eruptions on ozone. In EGU General Assembly (p. 15264). https://meetingorganizer.copernicus.org/EGU2016/EGU2016-15264.pdf
+1. Brenna, H., Kutterolf, S., Mills, M. J., & Krüger, K. (2018). Atmospheric, Climatic and Environmental Effects of the Super-Size Los Chocoyos Eruption 84 Kyrs Ago. In SPARC General Assembly (p. 1482).
+2. Brenna, H., Kutterolf, S., & Krüger, K. (2018). Global ozone depletion and increase of UV radiation caused by pre-industrial tropical volcanic eruptions. In EGU General Assembly (p. 6017). Awarded the Outstanding Student Poster and PICO award. https://cdn.egu.eu/media/awards/ospp-award/2018/hans_brenna.pdf
+3. Brenna, H., Krüger, Kirstin, & Kutterolf, S. (2017). Halogen and sulfur rich explosive eruptions in the tropics: A potential threat to the future ozone layer? Halogen and sulfur rich explosive eruptions in the tropics. In IAVCEI 2017 Scientific Assembly (p. 129). http://iavcei2017.org/IAVCEI 2017 Abstracts.pdf
+4. Brenna, H., Krüger, K., & Kutterolf, S. (2017). A new threat to the future ozone layer? Halogen and sulfur rich explosive eruptions in the tropics. In CCMI Workshop Toulouse.
+5. Brenna, H., Krüger, K., & Kutterolf, S. (2016). Modelling the impact of chlorine and bromine emissions from large Plinian eruptions on ozone. In EGU General Assembly (p. 15264). https://meetingorganizer.copernicus.org/EGU2016/EGU2016-15264.pdf
+6. Brenna, H., Krüger, K., & Kutterolf, S. (2015). Modelling the Combined Impact of Chlorine and Bromine from Large Plinian Eruption on Ozone and the Stratosphere. In CCMI Workshop Rome.
 
 ## Other
 1. Brenna, H. (2017). Klimamodellenes begrensninger. Aftenposten Viten. https://www.aftenposten.no/viten/i/aR7Ld/klimamodellenes-begrensninger
