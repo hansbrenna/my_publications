@@ -1,4 +1,5 @@
-# Publications
+# Publications of Hans Brenna
+Current employment: Norwegian Meteorological Institute
 
 ## Peer reviewed publications
 
