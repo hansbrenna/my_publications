@@ -1,5 +1,6 @@
 # Publications of Hans Brenna
 Current employment: Norwegian Meteorological Institute
+ORCID: https://orcid.org/0000-0003-2038-469X
 
 ## Peer reviewed publications
 
