@@ -10,6 +10,9 @@
 1. Brenna, H., Kutterolf, S., Mills, M., & Krüger, K. (2019). Decadal ozone and climate changes caused by the super-size, sulfur and halogen rich, Los Chocoyos eruption 84 kyrs ago. EGU General Assembly 2019. https://meetingorganizer.copernicus.org/EGU2019/EGU2019-18202.pdf
 2. Brenna, H., Kutterolf, S., Mills, M., & Krüger, K. (2019). Atmospheric, climatic and environmental effects of the super-size Los Chocoyos eruption 84 kyrs ago. ACDC 10 year anniversary conference. I also co-chaired the session on climate and volcanism.
 
+## Invited seminars
+1. Brenna, H., Krüger, K., & Kutterolf, S. (2017). Halogen and sulfur rich explosive eruptions in the tropics: A potential threat to the ozone layer? FB4 Seminar, GEOMAR, Kiel, Oct 12 2017.
+
 ## Conference posters
 1. Brenna, H., Kutterolf, S., Mills, M. J., & Krüger, K. (2018). Atmospheric, Climatic and Environmental Effects of the Super-Size Los Chocoyos Eruption 84 Kyrs Ago. SPARC General Assembly 2018.
 2. Brenna, H., Kutterolf, S., & Krüger, K. (2018). Global ozone depletion and increase of UV radiation caused by pre-industrial tropical volcanic eruptions. EGU General Assembly 2018 (p. 6017). Awarded the Outstanding Student Poster and PICO award. https://cdn.egu.eu/media/awards/ospp-award/2018/hans_brenna.pdf
@@ -19,9 +22,6 @@
 5. Brenna, H., Krüger, K., & Kutterolf, S. (2017). A new threat to the future ozone layer? Halogen and sulfur rich explosive eruptions in the tropics. CCMI Workshop 2017.
 6. Brenna, H., Krüger, K., & Kutterolf, S. (2016). Modelling the impact of chlorine and bromine emissions from large Plinian eruptions on ozone. EGU General Assembly 2016. https://meetingorganizer.copernicus.org/EGU2016/EGU2016-15264.pdf
 7. Brenna, H., Krüger, K., & Kutterolf, S. (2015). Modelling the Combined Impact of Chlorine and Bromine from Large Plinian Eruption on Ozone and the Stratosphere. CCMI Workshop 2015.
-
-## Invited seminars
-1. Brenna, H., Krüger, K., & Kutterolf, S. (2017). Halogen and sulfur rich explosive eruptions in the tropics: A potential threat to the ozone layer? FB4 Seminar, GEOMAR, Kiel, Oct 12 2017.
 
 ## Other
 1. Brenna, H. (2017). Klimamodellenes begrensninger. Aftenposten Viten. https://www.aftenposten.no/viten/i/aR7Ld/klimamodellenes-begrensninger
