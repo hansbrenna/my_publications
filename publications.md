@@ -12,10 +12,12 @@
 ## Conference posters
 1. Brenna, H., Kutterolf, S., Mills, M. J., & Krüger, K. (2018). Atmospheric, Climatic and Environmental Effects of the Super-Size Los Chocoyos Eruption 84 Kyrs Ago. SPARC General Assembly 2018.
 2. Brenna, H., Kutterolf, S., & Krüger, K. (2018). Global ozone depletion and increase of UV radiation caused by pre-industrial tropical volcanic eruptions. EGU General Assembly 2018 (p. 6017). Awarded the Outstanding Student Poster and PICO award. https://cdn.egu.eu/media/awards/ospp-award/2018/hans_brenna.pdf
-3. Brenna, H., Krüger, Kirstin, & Kutterolf, S. (2017). Halogen and sulfur rich explosive eruptions in the tropics: A potential threat to the future ozone layer? Halogen and sulfur rich explosive eruptions in the tropics. IAVCEI 2017 Scientific Assembly.
-4. Brenna, H., Krüger, K., & Kutterolf, S. (2017). A new threat to the future ozone layer? Halogen and sulfur rich explosive eruptions in the tropics. CCMI Workshop 2017.
-5. Brenna, H., Krüger, K., & Kutterolf, S. (2016). Modelling the impact of chlorine and bromine emissions from large Plinian eruptions on ozone. EGU General Assembly 2016. https://meetingorganizer.copernicus.org/EGU2016/EGU2016-15264.pdf
-6. Brenna, H., Krüger, K., & Kutterolf, S. (2015). Modelling the Combined Impact of Chlorine and Bromine from Large Plinian Eruption on Ozone and the Stratosphere. CCMI Workshop 2015.
+3. Brenna, H., Kutterolf, S., Mills, M. J., & Krüger, K. (2018) Are We Ready for the Next Big Sulfur- and Halogen-rich Eruption in the Tropics? AGU Chapman Conference on Stratospheric aerosol in the post-Pinatubo era: Processes, Interactions and Importance
+ https://agu.confex.com/agu/18chapman3/webprogram/Paper333431.html
+4. Brenna, H., Krüger, Kirstin, & Kutterolf, S. (2017). Halogen and sulfur rich explosive eruptions in the tropics: A potential threat to the future ozone layer? Halogen and sulfur rich explosive eruptions in the tropics. IAVCEI 2017 Scientific Assembly.
+5. Brenna, H., Krüger, K., & Kutterolf, S. (2017). A new threat to the future ozone layer? Halogen and sulfur rich explosive eruptions in the tropics. CCMI Workshop 2017.
+6. Brenna, H., Krüger, K., & Kutterolf, S. (2016). Modelling the impact of chlorine and bromine emissions from large Plinian eruptions on ozone. EGU General Assembly 2016. https://meetingorganizer.copernicus.org/EGU2016/EGU2016-15264.pdf
+7. Brenna, H., Krüger, K., & Kutterolf, S. (2015). Modelling the Combined Impact of Chlorine and Bromine from Large Plinian Eruption on Ozone and the Stratosphere. CCMI Workshop 2015.
 
 ## Other
 1. Brenna, H. (2017). Klimamodellenes begrensninger. Aftenposten Viten. https://www.aftenposten.no/viten/i/aR7Ld/klimamodellenes-begrensninger
