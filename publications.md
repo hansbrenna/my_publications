@@ -21,7 +21,7 @@
 7. Brenna, H., Krüger, K., & Kutterolf, S. (2015). Modelling the Combined Impact of Chlorine and Bromine from Large Plinian Eruption on Ozone and the Stratosphere. CCMI Workshop 2015.
 
 ## Invited seminars
-1. Brenna, H., Krüger, K., & Kutterolf, S. (2017). Halogen and sulfur rich explosive eruptions in the tropics: A potential threat to the ozone layer? GEOMAR FB4 Seminar, Oct 13 2017.
+1. Brenna, H., Krüger, K., & Kutterolf, S. (2017). Halogen and sulfur rich explosive eruptions in the tropics: A potential threat to the ozone layer? FB4 Seminar, GEOMAR, Kiel, Oct 12 2017.
 
 ## Other
 1. Brenna, H. (2017). Klimamodellenes begrensninger. Aftenposten Viten. https://www.aftenposten.no/viten/i/aR7Ld/klimamodellenes-begrensninger
