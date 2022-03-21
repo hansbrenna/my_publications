@@ -1,6 +1,11 @@
 # Publications of Hans Brenna
 Current employment: [Cervest](http://www.cervest.earth)
 
+Previous employment: 
+- Norwegian Meteorological Institute (2020-2021)
+- Department of Geosciences, University of Oslo (2014-2019)
+- DNV (2013-2014)
+
 ORCID: https://orcid.org/0000-0003-2038-469X
 
 ## Peer reviewed publications
