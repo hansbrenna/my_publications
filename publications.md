@@ -29,5 +29,9 @@ ORCID: https://orcid.org/0000-0003-2038-469X
 6. Brenna, H., Krüger, K., & Kutterolf, S. (2016). Modelling the impact of chlorine and bromine emissions from large Plinian eruptions on ozone. EGU General Assembly 2016. https://meetingorganizer.copernicus.org/EGU2016/EGU2016-15264.pdf
 7. Brenna, H., Krüger, K., & Kutterolf, S. (2015). Modelling the Combined Impact of Chlorine and Bromine from Large Plinian Eruption on Ozone and the Stratosphere. CCMI Workshop 2015.
 
+## Reports
+1. Fagerli, H., H. Brenna, A. Mortier, J. Griesfeller, J. Gliss, M. Gauss, O. Jorba, S. Basart, D. Bowdalo, M. T. Pay, G. Descombes, A. Colette, B. Raux, M. Schaap, J. Tokaya, A. Segers, and R. Timmermans (2021), Report with prioritised list of recommendations (model aspects): Analysis of results from cams_61 phase 3 - sensitivity runs, Copernicus Report CAMS61_2019SC1_D1.3.1_202106_Prioritised_List_Recommendations_v1, ECMWF.
+1. Fagerli, H., S. Tsyro, D. Simpson, Á. Nyíri, P. Wind, M. Gauss, A. Benedictow, H. Klein, Á. Valdebenito, Q. Mu, E. Grøtting Wærsted, J. Gliß, H. Brenna, A. Mortier, J. Griesfeller, W. Aas, A. Hjellbrekke, S. Solberg, K. Tørseth, K. Yttri, K. Mareckova, B. Matthews, S. Schindlbacher, B. Ullrich, R. Wankmüller, and J. Scheuschner, T. and Kuenen (2021), Transboundary particulate matter, photo-oxidants, acidifying and eutrophying components, EMEP MSC-W Status Report 1/2021, The Norwegian Meteorological Institute, Oslo, Norway
+
 ## Other
 1. Brenna, H. (2017). Klimamodellenes begrensninger. Aftenposten Viten. https://www.aftenposten.no/viten/i/aR7Ld/klimamodellenes-begrensninger
